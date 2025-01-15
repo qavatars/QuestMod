@@ -1,6 +1,6 @@
-# #{name}
+# QAvatars
 
-#{description}
+## The updated version of QAvatars 1.28
 
 Use `qpm s build` to build
 Same goes for `qpm s copy` and `qpm s qmod`
